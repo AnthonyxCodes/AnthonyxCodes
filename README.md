@@ -7,7 +7,6 @@ Indie full-stack developer
 I'm passionate about harnessing creativity to craft and launch unique digital experiences!
 
 * 🌍  I'm based in Denver, CO
-* ✉️  You can contact me at [anthonyk.codes@gmail.com](mailto:anthonyk.codes@gmail.com)
 * 🧠  I'm learning SQL, Fast API & Express.js
 * 🤝  I'm open to collaborating on anything SaaS
 * ⚡  I'm building code castles in the digital sky, one line at a time
