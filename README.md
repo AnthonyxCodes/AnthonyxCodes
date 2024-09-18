@@ -9,7 +9,6 @@ I'm passionate about harnessing creativity to craft and launch unique digital ex
 * 🌍  I'm based in Denver, CO
 * 🧠  I'm learning SQL, Fast API & Express.js
 * 🤝  I'm open to collaborating on anything SaaS
-* ⚡  I'm building code castles in the digital sky, one line at a time
 
 ### Skills
 
